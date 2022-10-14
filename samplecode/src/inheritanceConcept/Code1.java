@@ -1,6 +1,6 @@
 package inheritanceConcept;
 
-public class code1 {
+public class Code1 {
 	
 	public void money() {
 		System.out.println("money");

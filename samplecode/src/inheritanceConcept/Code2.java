@@ -1,6 +1,6 @@
 package inheritanceConcept;
 
-public class code2 extends code1 {
+public class Code2 extends Code1 {
 	
  public void mobile() {
 	 System.out.println("moblie");
@@ -8,7 +8,7 @@ public class code2 extends code1 {
  public static void main(String[] args) {
 	// without using the inheritance we use the method of code1 in the code2 .
 	//for calling the method of code1, we create the object of code1.
-	code1 c1 = new code1();
+	Code1 c1 = new Code1();
 	c1.car();
 	c1.house();
 	c1.money();
@@ -33,7 +33,7 @@ public class code2 extends code1 {
 	 
 	 */
 	//======= Single level======================
-	code2 c2 = new code2();
+	Code2 c2 = new Code2();
 	c2.mobile();
 	c2.house();
 	c2.money();

@@ -1,5 +1,5 @@
 package inheritanceConcept;
-public class code3 extends code2  {
+public class Code3 extends Code2  {
 	
 	public void pen() {
 		System.out.println("pen");
@@ -25,7 +25,7 @@ public class code3 extends code2  {
 		 
 		 code1 property is inherit in code2 and code2 all property inherit in code3. 
 		 */
-		code3 c3 = new code3();
+		Code3 c3 = new Code3();
 		c3.car();
 		c3.house();
 		c3.mobile();
