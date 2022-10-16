@@ -3,7 +3,7 @@ package Casting;
 public class CastingClass {
 	
 	/*
-	 
+	
 	 Casting: 
 	 Converting one type of information into another type is called casting
 	In java casting is classified into 2 types: 

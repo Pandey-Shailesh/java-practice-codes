@@ -3,7 +3,9 @@ package Casting;
 public class ExplicitCasting {
 
 	public static void main(String[] args) {
+		
 		//double->long->int->short->byte
+		
 		double a =2220.48;
 		long b=(long)a;
 		int c= (int)b;

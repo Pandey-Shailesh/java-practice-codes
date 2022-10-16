@@ -1,7 +1,7 @@
 package Casting;
 
 public class Father {
-	
+
 	public void house()
 	{
 		System.out.println("Father has 1 mansion");

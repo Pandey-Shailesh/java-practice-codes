@@ -1,4 +1,4 @@
-package Casting;
+ package Casting;
 
 public class Son extends Father{
 
@@ -21,7 +21,7 @@ public class Son extends Father{
 		g.car();
 		g.house();
 		
-		Father f = new Son();  		//UpCasting 
+		Father f = new Son();   		//UpCasting 
 		f.car();
 		f.house();
 	

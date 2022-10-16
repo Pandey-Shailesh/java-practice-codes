@@ -6,7 +6,7 @@ public class ImplicitCasting {
 	public static void main(String[] args) {
 		
 		//byte->short->int->long->double.
-		
+	
 		byte a=12;
 		short b=a;
 		int c=b;
